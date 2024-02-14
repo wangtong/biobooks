@@ -14,6 +14,7 @@ language = 'cn'
 
 extensions = [
     'myst_parser',
+    'recommonmark',
     'sphinx_markdown_tables',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
