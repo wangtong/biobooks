@@ -2,16 +2,18 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Biobooks'
+copyright = '2024, Wang Tong'
+author = 'Wang Tong'
 
-release = '0.1'
-version = '0.1.0'
+release = '1.0'
+version = '1.0'
 
 # -- General configuration
 
 extensions = [
+    'recommonmark',
+    'sphinx_markdown_tables',
     'sphinx.ext.duration',
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',

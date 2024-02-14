@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+欢迎使用同源基因生物云计算平台
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+在使用云服务器前，请详细阅读说明文档.
 
-Read the tutorial here:
+更多内容请点击下方链接:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://biobooks.readthedocs.io/zh-cn/latest/
