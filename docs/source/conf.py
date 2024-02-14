@@ -8,6 +8,7 @@ author = 'Wang Tong'
 
 release = '1.0'
 version = '1.0'
+language = 'cn'
 
 # -- General configuration
 
