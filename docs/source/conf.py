@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Biobooks'
+project = 'BioBooks'
 copyright = '2024, Wang Tong'
 author = 'Wang Tong'
 
