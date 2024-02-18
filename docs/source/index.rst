@@ -7,7 +7,7 @@
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
 
    chapter01/index.rst
    chapter02/index.rst
