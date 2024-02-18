@@ -3,7 +3,7 @@
 
 欢迎阅读同源基因科技有限责任公司生物信息大百科全书。本项目为生物信息电子书。
 
-本项目github地址：https://github.com/wangtong/biobooks.git
+本项目github地址: https://github.com/wangtong/biobooks.git
 
 
 .. toctree::
@@ -26,8 +26,6 @@
    chapter15/index.rst
    chapter16/index.rst
 
-   usage.rst
-   apt.rst
 
 .. note::
    
