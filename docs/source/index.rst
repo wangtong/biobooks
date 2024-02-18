@@ -14,6 +14,17 @@
    chapter03/index.rst
    chapter04/index.rst
    chapter05/index.rst
+   chapter06/index.rst
+   chapter07/index.rst
+   chapter08/index.rst
+   chapter09/index.rst
+   chapter10/index.rst
+   chapter11/index.rst
+   chapter12/index.rst
+   chapter13/index.rst
+   chapter14/index.rst
+   chapter15/index.rst
+   chapter16/index.rst
 
    usage.rst
    apt.rst
