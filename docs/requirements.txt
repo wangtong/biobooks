@@ -4,3 +4,4 @@ myst-parser
 mkdocs
 recommonmark
 sphinx_markdown_tables
+sphinx_book_theme
