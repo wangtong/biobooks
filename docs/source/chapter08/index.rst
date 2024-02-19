@@ -5,11 +5,14 @@ markdown
 
 
 .. toctree::
-   :maxdepth: 2
+   :mpyxdepth: 2
 
-   a1.md
-   a2.md
-   a3.md
-   a4.md
-   a5.md
-   a6.md
+   py1.md
+   py2.md
+   py3.md
+   py4.md
+   py5.md
+   py6.md
+   py7.md
+   py8.md
+   py9.md
