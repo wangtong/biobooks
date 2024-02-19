@@ -7,9 +7,9 @@ markdown
 .. toctree::
    :maxdepth: 2
 
-   a1.md
-   a2.md
-   a3.md
-   a4.md
-   a5.md
-   a6.md
+   bio1.md
+   bio2.md
+   bio3.md
+   bio4.md
+   bio5.md
+   bio6.md
