@@ -11,8 +11,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-   
+
    chapter01/index.rst
    chapter02/index.rst
    chapter03/index.rst
