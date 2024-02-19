@@ -5,7 +5,7 @@ markdown
 
 
 .. toctree::
-   :mpyxdepth: 2
+   :maxdepth: 2
 
    py1.md
    py2.md

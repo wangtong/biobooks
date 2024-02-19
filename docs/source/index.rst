@@ -5,10 +5,14 @@
 
 本项目github地址: https://github.com/wangtong/biobooks.git
 
+.. note::
+   
+   内容逐步更新中.
 
 .. toctree::
    :maxdepth: 2
-
+   :caption: Contents:
+   
    chapter01/index.rst
    chapter02/index.rst
    chapter03/index.rst
@@ -27,9 +31,16 @@
    chapter16/index.rst
 
 
-.. note::
-   
-   这里是一个备注.
+更多内容：
+
+抖音号：wangtong139
+
+B站: https://space.bilibili.com/404172354?spm_id_from=333.1007.0.0)
+
+知乎：https://www.zhihu.com/people/wangtong-64
+
+公众号：基因学苑
+
 
 
 版本信息
