@@ -13,3 +13,7 @@ markdown
    r4.md
    r5.md
    r6.md
+   r7.md
+   r8.md
+   r9.md
+   r10.md
