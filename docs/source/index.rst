@@ -12,22 +12,23 @@
 .. toctree::
    :maxdepth: 2
 
-   chapter01/index.rst
-   chapter02/index.rst
-   chapter03/index.rst
-   chapter04/index.rst
-   chapter05/index.rst
-   chapter06/index.rst
-   chapter07/index.rst
-   chapter08/index.rst
-   chapter09/index.rst
-   chapter10/index.rst
-   chapter11/index.rst
-   chapter12/index.rst
-   chapter13/index.rst
-   chapter14/index.rst
-   chapter15/index.rst
-   chapter16/index.rst
+   1-intro/index.rst
+   2-tools/index.rst
+   3-webtools/index.rst
+   4-linux/index.rst
+   5-biosoft/index.rst
+   6-database/index.rst
+   7-sequencing/index.rst
+   8-python/index.rst
+   9-rbase/index.rst
+   10-assembly/index.rst
+   11-genome/index.rst
+   12-meta/index.rst
+   13-16s/index.rst
+   14-rnaseq/index.rst
+   15-scrna/index.rst
+   16-nanopore/index.rst
+
 
 
 更多内容：

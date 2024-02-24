@@ -99,3 +99,18 @@ mamba install -y glimmer
 mamba install -y augustus
 mamba install -y trf
 ```
+
+## 3 升级bioconda全部软件
+
+定期需要升级bioconda软件，如果想一次性升级全部软件，可以使用下面命令。
+
+ 
+
+```shell
+# 更新基础conda
+mamba update -n base -c defaults conda
+
+#更新全部包
+mamba update -y --all
+```
+
