@@ -1,4 +1,4 @@
-# 9.3 免费R分析环境
+# 3.1 免费R分析环境
 
 
 
@@ -33,6 +33,5 @@ posit（原 Rstudio）公司提供了云服务 posit cloud，是一个在线的 
 [https://github.com/wangtong/RinAction3 ](https://github.com/wangtong/RinAction3)
 
 https://github.com/hadley/r4ds
-
 
 
